@@ -8,6 +8,15 @@ Welcome to my Machine Learning Hub! This repository is a centralized place for a
 
 ### [🏠 House Price Prediction:](https://github.com/NoorNick/House-Price-Prediction)
 ML model built to predict house prices.
+<br><br>
+
+### [📧 Email Spam Classifier](https://github.com/NoorNick/Email-Spam-Classifier/tree/main)
+ML model built to Classify spam Emails.
+<br><br>
+
+### [🩺 Medical Diagnosis System](https://github.com/NoorNick/Medical-Diagnosis-System)
+ML model built to Diagnose Patients.
+<br><br>
 
 ---
 
