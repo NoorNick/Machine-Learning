@@ -22,6 +22,10 @@ ML model built to Diagnose Patients.
 ML model built to categorize products.
 <br><br>
 
+### [🖼️ Image Similarity Search](https://github.com/NoorNick/Image-Similarity-Search/tree/main)
+ML model built to search for similar images.
+<br><br>
+
 ---
 
 ## 📌 Highlights
