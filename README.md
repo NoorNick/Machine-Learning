@@ -18,6 +18,10 @@ ML model built to Classify spam Emails.
 ML model built to Diagnose Patients.
 <br><br>
 
+### [🛒 Product Categorization System](https://github.com/NoorNick/Product-Categorization-System/tree/main)
+ML model built to categorize products.
+<br><br>
+
 ---
 
 ## 📌 Highlights
