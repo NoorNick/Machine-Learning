@@ -26,6 +26,30 @@ ML model built to categorize products.
 ML model built to search for similar images.
 <br><br>
 
+### [🎬 SimpleKNN Movie Genre Classifier](https://github.com/NoorNick/Movie-Genre-Classifier/tree/main)
+ML model built to classify Movie Genres.
+<br><br>
+
+### [🌸 Iris Flower Classification](https://github.com/NoorNick/Iris-Flower-Classification/tree/main)
+ML model built to classify Iris Flowers.
+<br><br>
+
+### [📉 Customer Churn Prediction](https://github.com/NoorNick/Customer-Churn-Prediction/tree/main)
+ML model built to predict customer leaves.
+<br><br>
+
+### [💳 Transaction Fraud Detection](https://github.com/NoorNick/Transaction-Fraud-Detection/tree/main)
+ML model built to Detect Fraud transactions.
+<br><br>
+
+### [🧪 Breast Cancer Classification](https://github.com/NoorNick/Breast-Cancer-Detection/tree/main)
+ML model built to Detect Breast Tumors.
+<br><br>
+
+### [💬 Sentiment Text Analysis](https://github.com/NoorNick/Text-Classification/tree/main)
+ML model built to Classify Sentiment reviews on movies.
+<br><br>
+
 ---
 
 ## 📌 Highlights
