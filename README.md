@@ -4,7 +4,7 @@ Welcome to my Machine Learning Hub! This repository is a centralized place for a
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### [🏠 House Price Prediction:](https://github.com/NoorNick/House-Price-Prediction)
 ML model built to predict house prices.
@@ -54,10 +54,10 @@ ML model built to Classify Sentiment reviews on movies.
 
 ## 📌 Highlights
 
-- 🧠 **Supervised Learning** – Regression, classification, model evaluation
-- 🔍 **Unsupervised Learning** – Clustering, dimensionality reduction
-- 🎲 **Bayesian Methods** – Probabilistic modeling, Naive Bayes
-- 🏗️ **Model Deployment** – APIs with FastAPI/Flask, Streamlit dashboards
-- 📊 **Visualization** – Matplotlib, Seaborn, Plotly
-- 🧪 **Experimentation** – Notebooks with exploratory data analysis (EDA)
+- **Supervised Learning** – Regression, classification, model evaluation
+- **Unsupervised Learning** – Clustering, dimensionality reduction
+- **Bayesian Methods** – Probabilistic modeling, Naive Bayes
+- **Model Deployment** – APIs with FastAPI/Flask, Streamlit dashboards
+- **Visualization** – Matplotlib, Seaborn, Plotly
+- **Experimentation** – Notebooks with exploratory data analysis (EDA)
 
